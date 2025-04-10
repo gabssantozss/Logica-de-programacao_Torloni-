@@ -1,0 +1,12 @@
+Algoritimo para trocar a lampada 
+1. Desligar a energia 
+2. Pegar uma escada 
+3. Posicionar a escada de baixo da lampada 
+4. Subir na escada 
+5. Afrouxar a lampada 
+6. Retirar a lampada queimada 
+7. Posicionar a nova lampada no soquete 
+8. Apertar a nova lampada ate encaixar 
+9. Descer da escada 
+10. Ligar a energia 
+11. Testar a lampada

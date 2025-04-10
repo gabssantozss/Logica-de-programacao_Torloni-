@@ -1,0 +1,7 @@
+Algoritimo para fazer cafe em uma cafeteira de filtro de papel 
+1. Cloque o filtro de papel na cafeteira 
+2. Espalhe o po de cafe no filtro sem apertar 
+3. Ferva a agua 
+4. Escalde o filtro de papel com água quente e descarte a água
+5. Despeje a água sobre o pó de café, umedecendo-o todo
+6. Deixe o café coar sem mexer

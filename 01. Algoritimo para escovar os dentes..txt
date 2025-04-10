@@ -1,0 +1,10 @@
+Algoritimo para escovar os dentes.
+1. Entrar no banheiro.
+2. Pegar sua escova e pasta de dente 
+3. Molhar sua escova com agua e colocar a pasta
+4. Escove os dentes da maneira correta
+5. Escove a lingua 
+6. Exague a boca com agua 
+7. Limpe e seque a escova de dente 
+8. Use fio dental
+9. Se preferir, usar enxaguante bocal.

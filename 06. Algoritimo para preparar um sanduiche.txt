@@ -1,0 +1,9 @@
+Algoritimo para preparar um sanduiche 
+1. Verificar se os ingredientes estao disponiveis 
+2. Separar cada alimento que sera necessario para o preparo
+3. Pegar o pao
+4. Abrir o pao 
+5. Passar requeijao no pao 
+6. Colocar os frios no pao 
+7. Fechar o pao 
+8. Colocar na frigideira para tostar

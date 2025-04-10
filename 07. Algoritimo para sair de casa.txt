@@ -1,0 +1,8 @@
+Algoritimo para sair de casa 
+1. Se preparar para sair
+2. Verificar se desligou os aparelhos utilizados anteriormente 
+3. Pegar as coisas necessarias para ir a rua 
+4. Verificar se pegou as chaves e o celular 
+5. Sair pela porta 
+6. Fechar a porta 
+7. Verificar se fechou a porta

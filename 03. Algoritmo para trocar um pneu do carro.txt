@@ -1,0 +1,12 @@
+Algoritmo para trocar um pneu do carro 
+1. Estacionar o carro em um local plano, estável e bem iluminado
+2. Sinalizar o local com o triângulo reflexivo
+3. Puxar o freio de mão e engatar a primeira marcha ou a posição “P”
+4. Afrouxar os parafusos da roda furada com a chave de roda
+5. Engatar o macaco e erguer o carro
+6. Retirar o pneu furado
+7. Substituir o pneu furado pelo estepe
+8. Apertar os parafusos de maneira cruzada
+9. Descer o carro com o macaco
+10. Terminar de apertar os parafusos
+11.Guardar o pneu furado e as ferramentas

@@ -1,0 +1,12 @@
+Algoritimo para tomar banho 
+1. Preparar a roupa para vestir depois 
+2. Pegar a toalha 
+3. Ir para o banheiro 
+4. Entrar no banheiro
+5. Ir para o box 
+6. Ligar o chuveiro 
+7. Tomar seu banho tranquilamente 
+8. Sair do box 
+9. Pegar a toalha
+10.Se secar 
+11.Vestir a roup
