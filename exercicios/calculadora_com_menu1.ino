@@ -1,14 +1,38 @@
-// C++ code
-//
 //variaveis 
-float numero1 = 0.0;
-float numero2 = 0.0;
+
 float soma;
 float subtracao;
 float multiplicacao;
 float divisao;
 int escolhaDaOperacao;
 int contador = 0;
+float resultado;
+
+float somar (float numero1, float numero2, int numero3 = 2){
+  return (numero1 + numero2 + numero3);
+  //numero3 parametro da funcao somar
+
+return (numero1 + numero2);
+}
+
+void subtrair (float numero1Param, float numero2Param){
+ resultado = numero1Param - numero2Param;
+ Serial.println("WOW!!! O resultado foi: " + String(resultado));
+
+}
+  
+  void multiplicar (float numero1Param, float numero2Param) {
+ resultado = numero1Param * numero2Param;
+ Serial.println("WOW!!! O resultado foi: " + String(resultado));
+  }   
+   
+    void dividir (float numero1Param, float numero2Param){
+ resultado = numero1Param / numero2Param;
+ Serial.println("WOW!!! O resultado foi: " + String(resultado));   
+
+}
+
+
 
 void setup()
 {
@@ -16,6 +40,9 @@ void setup()
     
     
   do {
+    
+    float numero1 = 0.0;
+    float numero2 = 0.0;
     Serial.println("Bem-vindo(a) a calculadora mega inteligente !");
     Serial.println("Escolha uma das opcoes/operacoes:");
     Serial.println("1 - Somar");
@@ -36,7 +63,8 @@ void setup()
     while(!Serial.available()){} //Espera o usuario digitar
     numero2 = Serial.parseFloat();
     
-    switch(escolhaDaOperacao){
+    switch(escolhaDaOperacao){   
+      
       case 4:
       	divisao = (numero1 / numero2);
       	Serial.println("WOW!!! o resultado foi: " + String(divisao));
@@ -56,8 +84,8 @@ void setup()
       	break;
       
       case 1:
-      	soma = (numero1 + numero2);
-      	Serial.println("WOW!!! o resultado foi: " + String(soma));
+     float resultado = somar (numero1, numero2);
+      Serial.println("WOW!!! o resultado foi: " + String(resultado));
       
       	break;
     }
